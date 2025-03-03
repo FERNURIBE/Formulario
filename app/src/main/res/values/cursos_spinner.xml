@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cursos_spinner">
+        <item>Select course</item>
+        <item>Finanzas Personales y Manejo del Dinero</item>
+        <item>Primeros Auxilios Básicos</item>
+        <item>Comunicación Efectiva y Oratoria</item>
+        <item>Habilidades Digitales y Ciberseguridad</item>
+        <item>Gestión del Tiempo y Productividad</item>
+    </string-array>
+</resources>

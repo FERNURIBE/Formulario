@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Formulario</string>
+
+    <!-- PRESENTATION -->
+    <string name="tv1">LearnFast es una app educativa que permite a los estudiantes inscribirse en cursos cortos y prácticos sobre temas esenciales para la vida.</string>
+    <string name="tv2">Ofrecemos conocimientos que, en algún momento, todos necesitaremos, como finanzas, primeros auxilios y ciberseguridad.</string>
+    <string name="register">Register</string>
+
+    <!-- REGISTRATION FORM -->
+    <string name="registrationform">Registration Form</string>
+    <string name="fullname">Full Name</string>
+    <string name="e_mail">Email</string>
+    <string name="name">Name</string>
+    <string name="email">e-mail</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+
+    <!-- SAVE -->
+    <string name="addother">Add other data</string>
+    <string name="details">Registration details</string>
+
+</resources>
